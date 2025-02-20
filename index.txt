@@ -1,2 +1,3 @@
 a. membuat file index
 b. menambah fitur login
+c. hapus fitur login dan menambah fitur sign-up
