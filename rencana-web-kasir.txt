@@ -1,5 +1,8 @@
 RENCANA WEB KASIR
 -membuat menu utama
+-visi dan misi
+-profil koperasi
+-alamat koperasi 
 -membuat menu login
 -membuat menu sign-up
 -membuat daftar harga barang 
